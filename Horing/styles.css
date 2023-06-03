@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
+
   }
   
   /* Estilos para o cabeçalho */
@@ -52,12 +53,12 @@ body {
   section {
     padding: 20px;
     color: #fff;
-    margin-top: 150px; /* para evitar que o conteúdo fique oculto sob o header fixo */
+    margin-top: 100px; /* para evitar que o conteúdo fique oculto sob o header fixo */
     text-align: center;
   }
   
   section h2 {
-    font-size: 24px;
+    font-size: 30px;
   }
 
   section h1 {
@@ -66,7 +67,7 @@ body {
   
   section p {
     margin: 20px 0;
-    font-size: 18px;
+    font-size: 25px;
     line-height: 1.5;
   }
 
