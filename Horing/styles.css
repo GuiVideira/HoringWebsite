@@ -52,7 +52,24 @@ body {
   section {
     padding: 20px;
     color: #fff;
+    margin-top: 150px; /* para evitar que o conteúdo fique oculto sob o header fixo */
+    text-align: center;
   }
+  
+  section h2 {
+    font-size: 24px;
+  }
+
+  section h1 {
+    font-size: 44px;
+  }
+  
+  section p {
+    margin: 20px 0;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
   
   /* Estilos para o rodapé */
   footer {
