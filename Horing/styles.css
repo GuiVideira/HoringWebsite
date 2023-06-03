@@ -1,0 +1,59 @@
+/* Estilos globais */
+body {
+    background-color: #404040;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Estilos para o cabeçalho */
+  header {
+    background-color: #446659;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Estilos para o banner */
+  .banner img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Estilos para a seção principal */
+  section {
+    padding: 20px;
+    color: #fff;
+  }
+  
+  /* Estilos para o rodapé */
+  footer {
+    background-color: #446659;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
