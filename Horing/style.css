@@ -75,6 +75,13 @@ section p {
   margin-bottom: 40px;
 }
 
+.text-img img{
+  width: 50%;
+  max-width: 50%;
+  justify-content: center;
+
+}
+
 /* Estilos para o rodapé */
 footer {
   background-color: #446659;
