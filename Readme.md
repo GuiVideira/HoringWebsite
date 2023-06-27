@@ -14,4 +14,3 @@ Horing é um Sistema Linux desenvolvidon por alunos do 3 semestre de ADS, da FAT
 
 
 ![App Screenshot](./Horing/assets/image.jpg)
-
